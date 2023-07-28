@@ -1,0 +1,6 @@
+// IMPORT CUSTOM ERROR CLASS HERE
+
+// ERROR HANDLER MIDDLEWARE
+const errorHandler = (err, req, res, next) => {};
+
+// EXPORT ERROR HANDLER MIDDLEWARE HERE
